@@ -30,11 +30,11 @@ c 进度较慢：到现在新版界面连效果图都没做出来。
 
 总体来说，做摄影类自媒体就是将36kr这一类网站的经验复制到摄影领域。我之前在网易的前同事有几个就是这么做的。
 
-36kr + 教育 = 多知网 http://www.duozhi.com/
-36kr + 财经 = 雪球
-36kr + 金融 = 融科技 http://www.rongkeji.com/
-36kr + 动漫 = 和邪社 http://www.hexieshe.com/
-36kr + 摄影 = 千刻
+- 36kr + 教育 = 多知网 http://www.duozhi.com/
+- 36kr + 财经 = 雪球
+- 36kr + 金融 = 融科技 http://www.rongkeji.com/
+- 36kr + 动漫 = 和邪社 http://www.hexieshe.com/
+- 36kr + 摄影 = 千刻
 
 这也就意味着，网站的主要内容分为几个部分：常规报道，公司报道，人物专访，特稿/征稿，活动。
 
