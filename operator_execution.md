@@ -20,19 +20,24 @@
 以后我们暂定每周一上午把第当周要发的内容过一下，没问题就对外发布。周五的时候整理一下当周内容的反馈情况。
 
 ###相关链接
-http://tech.sina.com.cn/digi/dc/q/2015-05-05/doc-icczmvup1069697.shtml
-http://www.cw.com.tw/article/article.action?id=5054720
-http://www.viralane.com/2276/2014-iphone攝影比賽得獎作品集（历届IPPAwards获奖作品和摄影师介绍，这个可以每周固定介绍一个主题，分期介绍，因为内容非常丰富，可以配合IPPAWARDS机构的介绍）
-http://digiphoto.techbang.com/posts/5776-16-photography-photographer-phone-app
-http://www.lofter.com/tag/人人都是手机摄影师（这里面有很多的手机摄影师，可以分期介绍作品，也可以挑选一部分优秀的摄影师进行访谈）
-http://jingyan.baidu.com/article/851fbc37f804753e1f15ab21.html
-http://www.weizhishu.com/post/411896_9892063.html
-https://zh-cn.facebook.com/mp61898581（这里也有很多的摄影师，可以先留着以后做访谈和介绍用）
-http://www.15yan.com/topic/ru-he-you-ya/2B7vOpzDlxE/
-http://learning.sohu.com/20150228/n409218178.shtml
+
+- http://tech.sina.com.cn/digi/dc/q/2015-05-05/doc-icczmvup1069697.shtml
+- http://www.cw.com.tw/article/article.action?id=5054720
+- http://www.viralane.com/2276/2014-iphone攝影比賽得獎作品集
+（历届IPPAwards获奖作品和摄影师介绍，这个可以每周固定介绍一个主题，分期介绍，因为内容非常丰富，可以配合IPPAWARDS机构的介绍）
+- http://digiphoto.techbang.com/posts/5776-16-photography-photographer-phone-app
+- http://www.lofter.com/tag/人人都是手机摄影师
+（这里面有很多的手机摄影师，可以分期介绍作品，也可以挑选一部分优秀的摄影师进行访谈）
+- http://jingyan.baidu.com/article/851fbc37f804753e1f15ab21.html
+- http://www.weizhishu.com/post/411896_9892063.html
+- https://zh-cn.facebook.com/mp61898581
+（这里也有很多的摄影师，可以先留着以后做访谈和介绍用）
+- http://www.15yan.com/topic/ru-he-you-ya/2B7vOpzDlxE/
+- http://learning.sohu.com/20150228/n409218178.shtml
 我没来得及做分类，麻烦你按照人物、技巧以及活动/机构来整理一下
 
 PS：
-1.链接大部分需要翻墙；
-2.我用google输入手机摄影师会有很多内容不错，以后你也可以用类似方法尝试一下；
-3.附件是目前我们注册的社交账号列表和密码。
+
+1. 链接大部分需要翻墙；
+
+2. 我用google输入手机摄影师会有很多内容不错，以后你也可以用类似方法尝试一下；
